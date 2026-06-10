@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2022",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "module": "nodenext",
+    "outDir": "dist",
+    "lib": ["ES2022", "DOM"],
+    "strict": true,
+    "types": ["node"]
+  }
+}
